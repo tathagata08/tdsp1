@@ -1,0 +1,7 @@
+{
+  "prompt": "Aerial photograph style illustration of a vast jungle canopy viewed from directly above, with three-quarters of the frame filled with rich dark green forest and one quarter consumed by dry brown cracked earth that cuts in from the right edge like a slow tide. The boundary between green and brown is jagged and organic, not a straight line. A single thin river winds through the remaining green. The remaining forest sits like a shrinking island. Deep shadows in the canopy. Mood: quiet, irreversible loss. Color palette: deep forest greens, warm ochre-brown, pale sky at horizon. Shot from 2000 metres altitude. Photorealistic. No text, no labels, no legends, no numbers, no chart elements.",
+  "model": "DALL·E 3",
+  "dataset_name": "Global Forest Loss (Hansen et al., Global Forest Watch)",
+  "dataset_url": "https://www.globalforestwatch.org/dashboards/global/",
+  "insight": "Tropical forests are rapidly shrinking, with deforestation expanding like an irreversible advancing front."
+}
